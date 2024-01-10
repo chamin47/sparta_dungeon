@@ -8,6 +8,7 @@ namespace sparta_dungeon
 {
     internal class Program
     {
+        // 깃허브 수정되는지 테스트 - 동민
         static Character player;
         static Inventory inventory = new Inventory();
         static void settings()
